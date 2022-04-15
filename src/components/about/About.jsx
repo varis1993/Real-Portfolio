@@ -7,7 +7,7 @@ const About = () => {
             <div className="a-left">
                 <div className="a-card bg"></div>
                 <div className="a-card">
-                    <img src="https://cdn.cnn.com/cnn/2020/images/01/27/kobe-header.jpg" alt="" className="a-img"/>
+                    <img src="https://media.istockphoto.com/photos/desktop-source-code-and-wallpaper-by-computer-language-with-coding-picture-id1026458098" alt="" className="a-img"/>
                 </div>
             </div>
             <div className="a-right">
