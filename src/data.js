@@ -2,31 +2,31 @@ export const products = [
     {
         id:1,
         img:  "https://raw.githubusercontent.com/varis1993/Social-Network-API/main/Screenshot%202.jpg",
-        link: "https://github.com/varis1993/Social-Network-API",
+        link: "https://www.youtube.com/watch?v=07cgDXifsHQ&t=1s",
     },
     {
         id:2,
-        img:  "https://raw.githubusercontent.com/Jonzee1914/Event-Advisor/develop/assets/images/eventadvisor-full-01.png",
+        img:  "https://github.com/varis1993/Real-Portfolio/blob/main/src/img/EventAdvisor.jpg?raw=true",
         link: "https://jonzee1914.github.io/Event-Advisor/",
     },
     {
         id:3,
-        img: "https://raw.githubusercontent.com/varis1993/Social-Network-API/main/Screenshot%202.jpg",
+        img: "https://github.com/varis1993/Real-Portfolio/blob/main/src/img/MovieShot.jpg?raw=true",
         link: "https://dry-refuge-59540.herokuapp.com/",
     },
     {
         id:4,
-        img: "https://raw.githubusercontent.com/varis1993/Social-Network-API/main/Screenshot%202.jpg",
+        img: "https://github.com/varis1993/Real-Portfolio/blob/main/src/img/TestShot.jpg?raw=true",
         link: "https://varis1993.github.io/Coding-Assessment/",
     },
     {
         id:5,
-        img: "https://raw.githubusercontent.com/varis1993/Social-Network-API/main/Screenshot%202.jpg",
+        img: "https://github.com/varis1993/Real-Portfolio/blob/main/src/img/ElonCoin.jpg?raw=true",
         link: "https://eloncoin.herokuapp.com/post/41",
     },
     {
         id:6,
-        img: "https://github.com/varis1993/ORM/blob/main/Screenshot.jpg",
-        link: "hhttps://www.youtube.com/watch?v=kcC1rDQI6IM&t=1s",
+        img: "https://github.com/varis1993/Real-Portfolio/blob/main/src/img/screenshot.jpg?raw=true",
+        link: "https://www.youtube.com/watch?v=gdanhbcQfO0",
     },
 ]
